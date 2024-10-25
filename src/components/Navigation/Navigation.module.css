@@ -1,0 +1,19 @@
+.link {
+  color: black;
+  text-decoration: none;
+}
+
+.active {
+  color: red;
+  text-decoration: none;
+}
+
+.navigationContainer {
+  display: flex;
+  flex-direction: row;
+  padding: 20px;
+  gap: 20px;
+  font-size: 14px;
+  font-weight: 600;
+  box-shadow: 2px 2px 8px #888888;
+}

@@ -1,0 +1,16 @@
+.castImg {
+  width: 100px;
+}
+
+.listItem {
+  list-style-type: disc;
+  list-style-position: outside;
+}
+
+.castContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  font-size: 12px;
+  font-weight: 400;
+}

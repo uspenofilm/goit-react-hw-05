@@ -1,0 +1,10 @@
+.listItem {
+  list-style-type: disc;
+  list-style-position: outside;
+}
+
+.reviewsContainer {
+  padding-left: 40px;
+  font-size: 12px;
+  font-weight: 400;
+}

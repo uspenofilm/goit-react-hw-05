@@ -1,0 +1,15 @@
+.searchForm {
+  display: flex;
+  flex-direction: row;
+  gap: 4px;
+}
+
+.searchInput {
+  min-width: 200px;
+}
+
+.searchInput:focus {
+  border: 2px solid skyblue;
+  border-radius: 2px;
+  outline: none;
+}
